@@ -1,5 +1,5 @@
 
-# Hi there, I'm Patrick Roberts! 👋 
+# Hi there!👋 
 
 ###  🧑‍💻 About Me
 I'm a tech student with a passion for programming and cybersecurity. I love seeing all the links purple when trying to figure out how the Internet of Things work.
